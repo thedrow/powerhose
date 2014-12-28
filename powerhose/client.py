@@ -162,7 +162,7 @@ class Client(object):
 
 
 class Pool(object):
-    """The pool class manage several :class:`CLient` instances
+    """The pool class manage several :class:`Client` instances
     and publish the same interface,
 
     Options:
